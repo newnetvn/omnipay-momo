@@ -26,7 +26,7 @@ Thư viện hổ trợ tích cổng thanh toán MoMo phát triển trên nền t
 Cài đặt Omnipay MoMo thông qua [Composer](https://getcomposer.org):
 
 ```bash
-composer require phpviet/omnipay-momo
+composer require newnetvn/omnipay-momo
 ```
 ## Cách sử dụng
 
